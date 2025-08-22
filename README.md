@@ -21,7 +21,7 @@ The analysis was done in **Excel** using Pivot Tables and Dashboards.
 
 ##  Files
 <a href = "https://github.com/amitpainwal/Hotel-Booking-Analysis---Excel/blob/main/Dashboard.pdf">  Dashboard</a> 
-<a href = "https://github.com/amitpainwal/Hotel-Booking-Analysis---Excel/blob/main/Hotel_Booking.csv?plain=1"> Datashet </a>
+<a href = "https://github.com/amitpainwal/Hotel-Booking-Analysis---Excel/blob/main/Hotel_Booking.xlsx"> Datashet </a>
 <a href = "https://github.com/amitpainwal/Hotel-Booking-Analysis---Excel/blob/main/Summary%20of%20Hotel%20Booking%20Analysis.pdf"> Summary </a>
 
 <img width="1865" height="803" alt="Screenshot 2025-08-22 113540" src="https://github.com/user-attachments/assets/d50b9274-8c5c-4c7e-b287-03a6aed33348" />
